@@ -1,1 +1,1 @@
-# Radio-Telescopic-Signal-Classification
+# Radio-Telescopic Signal Classification
